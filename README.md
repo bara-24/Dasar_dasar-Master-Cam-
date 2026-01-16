@@ -1,4 +1,4 @@
-# Dasar_CNC-Dasar
+# CNC-Dasar_rasyd
 Tugas Trasformasi Digital ; Muhammad Rasyd Prayogi NIM 2024006013
 <!DOCTYPE html>
 <html lang="id">
